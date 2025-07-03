@@ -18,7 +18,7 @@ Tenho experiência com:
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema Help Desk](https://github.com/gabrielsilva/helpdesk) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
+| [Sistema Help Desk](https://github.com/gllugli/help-desk-system) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
 
 ## 🧠 Estou aprendendo:
 
