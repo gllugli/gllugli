@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @gllugli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Olá, eu sou o Gabriel!
 
-<!---
-gllugli/gllugli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Ciência da Computação (3º semestre)  
+💻 Estagiando em suporte técnico, mas buscando oportunidades em **Desenvolvimento Backend**  
+🌐 Fluente em inglês | Aberto a vagas remotas (BR/Exterior)
+
+## 💡 Sobre mim
+
+Sou apaixonado por tecnologia e estou migrando da área de suporte para a de programação. Atualmente estudo backend e desenvolvo projetos pessoais com Python.
+
+Tenho experiência com:
+- 💾 **Banco de Dados (MySQL, SQLite)**
+- 🔧 **Git e GitHub**
+- 🐍 **Python**
+- 🧰 Construção de sistemas com interface gráfica (Tkinter)
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Sistema Help Desk](https://github.com/gabrielsilva/helpdesk) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
+
+## 🧠 Estou aprendendo:
+
+- C#
+- .NET
+- Estrutura de Dados
+  
+## 📫 Contato
+
+- ✉️ **gllugli2026@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-lars%C3%A3o-lugli-344182372/)
+
+---
+⭐ *Obrigado por visitar meu perfil!*
