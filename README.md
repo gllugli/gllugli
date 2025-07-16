@@ -19,7 +19,7 @@ Tenho experiência com:
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Sistema Help Desk](https://github.com/gllugli/help-desk-system) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
-| [Sistema Cadastro Hotel] (https://github.com/gllugli/Sistema-Hotel) | Sistema de cadastro de de hóspedes | C#, .NET, Console Application |
+| [Sistema Cadastro Hotel](https://github.com/gllugli/Sistema-Hotel) | Sistema de cadastro de de hóspedes | C#, .NET, Console Application |
 
 ## 🧠 Estou aprendendo:
 
