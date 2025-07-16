@@ -6,14 +6,13 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonado por tecnologia e estou migrando da área de suporte para a de programação. Atualmente estudo backend e desenvolvo projetos pessoais com Python.
+Sou apaixonado por tecnologia e estou migrando da área de suporte para a de programação. Atualmente estudo backend e desenvolvo projetos pessoais com Python e C#.
 
 Tenho experiência com:
-- <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> **Banco de Dados (MySQL, SQLite)**
-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> **Git e GitHub**
-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> **Python**
-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> **C# e .NET**
-- 🧰 Construção de sistemas com interface gráfica (Tkinter)
+- <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>     **Banco de Dados (MySQL, SQLite)**
+- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>     **Git e GitHub**
+- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>     **Python**
+- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>     **C# e .NET**
 
 ## 📂 Projetos em destaque
 
