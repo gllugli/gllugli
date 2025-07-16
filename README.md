@@ -10,6 +10,10 @@
 ## Languages and Tools
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllugli"/> 
 
+## Pinned Projects
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}"/>
+
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
