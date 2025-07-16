@@ -24,7 +24,6 @@
 | [Sistema Help Desk](https://github.com/gllugli/help-desk-system) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
 | [Sistema Hotel](https://github.com/gllugli/Sistema-Hotel) | Sistema de Reservas | C#, .NET, Cosole Application |
 
-- Thanks for visiting.
 
 
 
