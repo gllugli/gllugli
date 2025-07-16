@@ -1,28 +1,34 @@
-# 👋 Olá, eu sou o Gabriel!
+<h1 align="center">Hey 👋What's Up?</h1>
 
-🎓 Estudante de Ciência da Computação (4º semestre)  
-💻 Estagiando em suporte técnico, mas buscando oportunidades em **Desenvolvimento Backend**  
-🌐 Fluente em inglês | Aberto a vagas remotas (BR/Exterior)
+###
 
-## 💡 Sobre mim
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+</div>
 
-Sou apaixonado por tecnologia e estou migrando da área de suporte para a de Back-End. 
+###
 
-Tenho experiência com:
-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-lars%C3%A3o-lugli-344182372/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 📂 Projetos em destaque
+###
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Sistema Help Desk](https://github.com/gabrielsilva/helpdesk) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
-| [Controle de Estoque](https://github.com/gabrielsilva/estoque) | Interface para cadastro de produtos e vendas | Java, JavaFX |
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gllugli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gllugli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 📫 Contato
+###
 
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> **gabriel@email.com**
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-lars%C3%A3o-lugli-344182372/))
+<img src="https://raw.githubusercontent.com/gllugli/gllugli/output/snake.svg" alt="Snake animation" />
 
----
-⭐ *Obrigado por visitar meu perfil!*
+###
