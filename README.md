@@ -11,8 +11,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gllugli"/> 
 
 ## Pinned Projects
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}"/>
-
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Sistema Help Desk](https://github.com/gllugli/help-desk-system) | Sistema de chamados com autenticação e controle por função | Python, SQLite, Tkinter |
+| [Sistema Hotel](https://github.com/gllugli/Sistema-Hotel) | Sistema de Reservas | C#, .NET, Cosole Application |
 
 - Thanks for visiting.
 
