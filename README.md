@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I'm Gabriel from Brazil<br><br>- 🔭 I’m working as Support Technician<br>- 📚 I'm currently learning C# and .NET</p>
+<p align="center">I'm Gabriel from Brazil<br><br>- 🔭 I’m working as Support Technician<br>- 📚 I'm currently learning Python and Django</p>
 
 ###
 
