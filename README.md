@@ -65,7 +65,7 @@ My work emphasizes:
 ## 📈 GitHub Activity
 
 <div align="center">
-  [![gllugli's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gllugli&theme=github-compact)](https://github.com/gllugli/github-readme-activity-graph)
+  [![gllugli's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gllugli&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
