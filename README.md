@@ -4,7 +4,7 @@
 
 # Gabriel Larsão Lugli
 
-**Backend-Focused Fullstack Developer | Python & Django | Web Systems**
+**Fullstack Developer | Python & Django | Web Systems**
 
 <a href="https://www.linkedin.com/in/gabriel-lars%C3%A3o-lugli-344182372/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Fullstack Freelancer with a strong backend focus**, based in Brazil, working mainly with **Python and Django** to build and maintain real-world web systems.
+I am a **Fullstack Developer with a strong backend focus**, based in Brazil, working mainly with **Python and Django** to build and maintain real-world web systems.
 
 My work emphasizes:
 - Solid backend architecture
@@ -78,4 +78,4 @@ My work emphasizes:
 
 ---
 
-📌 *This profile represents a backend-first mindset applied to fullstack freelance development.*
+📌 *This profile represents a backend-first mindset applied to fullstack development.*
